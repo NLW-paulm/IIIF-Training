@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://NLW-paulm.github.io/IIIF-Training/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in NLW-paulm/IIIF-Training project"
+        ]
+    },
+    "items": []
+}
