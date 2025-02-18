@@ -1,0 +1,13 @@
+{
+  "id" : "https://NLW-paulm.github.io/IIIF-Training/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in NLW-paulm/IIIF-Training project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://NLW-paulm.github.io/IIIF-Training/manifests/manifest.json",
+    "label" : "Lifeboats at NLW"
+  } ]
+}
